@@ -1,0 +1,98 @@
+body{
+    background-image: url("back.jpg");
+    background-size: 100%;
+}
+
+
+
+.heade{
+    
+    height: 50px;
+}
+
+.logo{
+    height: 35px;
+    width: 50px;
+    position: relative;
+    bottom: 5px;
+}
+h1{
+    display: inline-block;
+    position: relative;
+    bottom:10px ;
+    left:35px;
+    font-family: 'Pacifico', cursive;
+    
+}
+
+
+.ri{
+    display: inline-block;
+    position: relative;
+left: 68%;
+bottom:10px;
+}
+
+
+.ini, .reg {
+    padding: 4px 5px 4px 5px;
+    position: relative;
+    
+   color: black;
+  
+}
+
+.nave{
+    
+    background-color: blueviolet;
+    height: 50px;
+    
+}
+
+ul {
+    display: flex;
+   justify-content: space-around;
+  }
+
+
+li{
+    list-style-type: none;
+    margin-top: 12px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+
+
+.div_formulario{
+border: 1px solid black;
+width: 250px;
+height: 410px;
+text-align: center;
+position: relative;
+top:50px;
+left:500px;
+}
+
+ label 
+{
+    display: block;
+    margin-top: 10px;
+}
+
+
+.lab{
+    display: inline-flex;
+margin-bottom: 0px;
+}
+
+button{
+    display: inline-block;
+    position: relative;
+    bottom:5px;
+    top: 7px;
+    margin-left: 0px 5px 0px 5px;
+}

@@ -1,0 +1,141 @@
+
+body{
+    
+}
+
+.heade{
+    
+    height: 50px;
+}
+
+.logo{
+    height: 40px;
+    width: 50px;
+    position: relative;
+    
+}
+h1{
+    display: inline-block;
+    position: relative;
+    bottom:45px ;
+    left:55px;
+    font-family: 'Pacifico', cursive;
+    
+}
+
+
+.ri{
+    display: inline-block;
+    position: relative;
+left: 68%;
+bottom:45px;
+}
+
+
+.ini, .reg {
+    padding: 4px 5px 4px 5px;
+    position: relative;
+    
+   color: black;
+  
+}
+
+.nave{
+    
+    background-color: blueviolet;
+    height: 50px;
+    
+}
+
+ul {
+    display: flex;
+   justify-content: space-around;
+  }
+
+
+li{
+    list-style-type: none;
+    margin-top: 12px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+
+
+
+
+
+
+
+
+
+img{
+    height: 100px;
+    width: 100px;
+    display: block;
+}
+
+
+
+.sabor,.decor{
+    text-align: center;
+}
+
+.divsabor{
+display: inline-block
+    
+}
+
+.divsabor1{
+    display: inline-block;
+}
+
+.divsabor2{
+    display: inline-block;
+}
+
+.divsabor3{
+    display: inline-block;
+}
+
+
+.divsabor4{
+    display: inline-block;
+}
+
+.divdecoracion{
+    display: inline-block;
+   
+}
+.divdecoracion1{
+    display: inline-block;
+}
+
+.divdecoracion2{
+    display: inline-block;
+   
+}
+.divdecoracion3{
+    display: inline-block;
+}
+.divdecoracion4{
+    display: inline-block;
+}
+
+
+table {
+
+    border-collapse: separate;
+    border-spacing:  5px 15px;
+    border:1px solid #5f0d0d
+    
+}
+
+th{
+    border-bottom:2px solid #07365f;
+    margin-left: 5%;
+}
+
